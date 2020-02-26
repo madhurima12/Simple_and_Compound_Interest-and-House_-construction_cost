@@ -12,7 +12,7 @@ import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 public class Customer_house_construction
 {
-public static void main(String args[])
+static
 {
 PrintStream my_out=new PrintStream(new FileOutputStream(FileDescriptor.out));
 Scanner sc=new Scanner(System.in);
@@ -41,6 +41,7 @@ my_out.print("Stopped");
 break;
 }
 }
+  System.exit(0);
 }
 }
 
