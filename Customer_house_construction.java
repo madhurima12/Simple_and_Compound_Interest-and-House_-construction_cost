@@ -7,7 +7,6 @@ import find_constructioncost_for_abovestandard.Construction_cost_for_abovestanda
 import find_constructioncost_for_highstandard.Construction_cost_for_highstandard_material;
 import findconstructioncostforhighstandardfullyautomated.Construction_cost_for_highstandard_material_and_fullyautomated_home;
 import java.util.Scanner;
-import java.io.*;
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 public class Customer_house_construction
